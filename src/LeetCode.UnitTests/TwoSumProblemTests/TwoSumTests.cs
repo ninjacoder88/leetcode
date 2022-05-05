@@ -31,7 +31,6 @@ namespace LeetCode.UnitTests
             var result = new TwoSumProblem().TwoSum(nums, target);
 
             //VALIDATE
-            result.Dump();
             Assert.That(result.ToList().SequenceEqual(new List<int>{1,2}));
         }
 
