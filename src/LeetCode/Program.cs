@@ -6,7 +6,6 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }
